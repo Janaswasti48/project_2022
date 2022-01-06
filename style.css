@@ -139,8 +139,8 @@ div#half_content_unique img {
 div#half_content_unique h1 {
     font-size: 40px;
 }
-/* #shape-1{
-    background-image: url(images/shapes/shape-4.png);
-    background-position: left;
-    background-repeat: no-repeat;
-} */
+
+
+div#half_content_unique p a {
+    color: tomato;
+}
